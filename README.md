@@ -9,7 +9,7 @@
 
 <b>models:</b>
   CT_100      template Box to use with any added adapters        
-  CT_110      Box with USB/SPS and FrontConnector
-  CT_120      Box with USB/SPS and space for LCD  
+  CT_110      Box with USB/SPS and space for LCD  
+  CT_120      Box with USB/SPS and FrontConnector
 
 </pre>
