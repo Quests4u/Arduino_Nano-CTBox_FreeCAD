@@ -8,8 +8,7 @@
 - adapter for front-view connectability
 
 <b>models:</b>
-  CT_100      template Box to use with any added adapters        
-  CT_110      Box with USB/SPS and space for LCD  
-  CT_120      Box with USB/SPS and FrontConnector
+
+  control_sbox+deckel_166              (s)Box  
 
 </pre>
